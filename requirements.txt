@@ -1,0 +1,6 @@
+Django==5.0.6                          
+django-cors-headers==4.4.0              # handling Cross-Origin Resource Sharing (CORS).
+djangorestframework==3.15.2
+djangorestframework-simplejwt==5.3.1    # JWT token implementation for DRF
+dj-rest-auth[with_social]==6.0.0        # REST API authentication utils
+python-dotenv==1.0.1                    # Load environment variables from .env file
