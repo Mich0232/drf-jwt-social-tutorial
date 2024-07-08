@@ -1,8 +1,5 @@
 <p align="center">
-    <img src=".github/public/drf-logo.jpg" alt="Logo Django REST Framework" width="440"/>
-</p>
-<p align="center">
-    <img src=".github/public/sign-in-with-google.png" alt="Sign in with Google button" width="440"/>
+    <img src=".github/public/django-sign-in-with-google.png" alt="Logo Django REST Framework" width="440"/>
 </p>
 
 # Django REST framework - JWT Token authentication with Social providers
